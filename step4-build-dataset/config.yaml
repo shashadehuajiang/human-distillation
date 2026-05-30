@@ -1,0 +1,9 @@
+# LLM 配置 (用于自动标定 UP主)
+llm:
+  # 火山引擎方舟 (Ark) API
+  base_url: "https://ark.cn-beijing.volces.com/api/v3"
+  api_key: ""          # 替换为你的 Ark API Key
+  model: "ep-20250515153541-9b7j5"  # 或 "deepseek-v3-250324"
+
+# UP主名称
+up_name: "大冰哥"
