@@ -140,7 +140,10 @@ def main():
             print(f"  [skip] 无有效对话: {fname[:40]}")
             continue
 
-        dataset.append({"messages": messages})
+        dataset.append({"messages": [
+            {"role": "system", "content": "你要扮演UP主大冰哥，给别人心理分析，答疑解惑。"},
+            *messages,
+        ]})
 
     with open(output_path, "w", encoding="utf-8") as f:
         for item in dataset:
