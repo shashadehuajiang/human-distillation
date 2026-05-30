@@ -1,0 +1,45 @@
+{
+  "duration_ms": 694741,
+  "up_speaker": "2",
+  "speaker_stats": {
+    "2": 3,
+    "1": 2
+  },
+  "segments": [
+    {
+      "start": 423.27,
+      "end": 426.39,
+      "text": "帮我扫个码。啊，有。帮我扫个码。嗯。",
+      "speaker": "1",
+      "is_up": false
+    },
+    {
+      "start": 474.86,
+      "end": 474.94,
+      "text": "哎。",
+      "speaker": "2",
+      "is_up": true
+    },
+    {
+      "start": 582.92,
+      "end": 584.04,
+      "text": "啊，可以，不用讲，嗯。",
+      "speaker": "1",
+      "is_up": false
+    },
+    {
+      "start": 592.1,
+      "end": 592.22,
+      "text": "哎。",
+      "speaker": "2",
+      "is_up": true
+    },
+    {
+      "start": 646.05,
+      "end": 646.13,
+      "text": "哎。",
+      "speaker": "2",
+      "is_up": true
+    }
+  ]
+}

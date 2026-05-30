@@ -4,3 +4,5 @@ __pycache__/
 .venv/
 .vscode/
 .idea/
+step-3-speaker-separation/auc_python/key.py
+step-3-speaker-separation/key.py
