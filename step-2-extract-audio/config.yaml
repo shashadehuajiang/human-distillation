@@ -1,0 +1,10 @@
+# 输入目录：下载好的视频文件
+video_dir: "../downloads/dabing"
+
+# 输出目录：提取的音频文件
+audio_dir: "./audios"
+
+# 音频参数
+sample_rate: 16000
+channels: 1
+format: "wav"   # wav / mp3 / flac

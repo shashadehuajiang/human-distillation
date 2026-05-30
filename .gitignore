@@ -1,4 +1,5 @@
 downloads/
+*.wav
 __pycache__/
 .venv/
 .vscode/
